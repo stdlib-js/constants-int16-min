@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import INT16_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-min@deno/mod.js';
+import INT16_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-min@v0.2.0-deno/mod.js';
 ```
 
 #### INT16_MIN
@@ -67,7 +67,7 @@ var bool = ( INT16_MIN === -32768 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import INT16_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-min@deno/mod.js';
+import INT16_MIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-int16-min@v0.2.0-deno/mod.js';
 
 console.log( INT16_MIN );
 // => -32768
